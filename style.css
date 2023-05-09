@@ -17,8 +17,6 @@ box-shadow: 1px 1px 10px 1px black;
 margin-left:;
 margin-top:101px;
 padding:-10%;
-
-
 }
 
 
@@ -27,14 +25,9 @@ padding:-10%;
 border-collapse: collapse;
 background-color:whitesmoke;
 color:blue;
-
-
-
 }
-
 .table td{
 text-align:center;
-
 }
 
 .table tr{
